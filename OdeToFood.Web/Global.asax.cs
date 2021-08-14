@@ -12,6 +12,7 @@ namespace OdeToFood.Web
 {
     public class MvcApp : System.Web.HttpApplication
     {
+
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
